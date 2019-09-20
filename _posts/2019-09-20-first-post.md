@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Starting Out
 categories: [startup]
 tags: []
