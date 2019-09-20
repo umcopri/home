@@ -1,6 +1,6 @@
 Welcome to the UMCOPRI (University of Maine - Coasts, Oceans, Ports, and Rivers Institute wiki!  We will have a lot of stuff going on in the future, so hopefully this will become a helpful resource.
   <p align="center">
-    <img src="/images/logo.png" width="120" align="center">
+    <img src="home/images/logo.png" width="120" align="center">
   </p>
 
 
