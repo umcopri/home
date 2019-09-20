@@ -5,3 +5,14 @@ Welcome to the UMCOPRI (University of Maine - Coasts, Oceans, Ports, and Rivers 
 To stay in touch with the people of COPRI, join our slack channel: <http://umcopri.slack.com>
 
 If you want to invite new members, we recommend using this link: <http://bit.ly/umcopri>
+
+## Posts
+
+{% for category in site.categories %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
