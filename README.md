@@ -1,4 +1,4 @@
-Welcome to the UMCOPRI (University of Maine - Coasts, Oceans, Ports, and Rivers Institute wiki!  We will have a lot of stuff going on in the future, so hopefully this will become a helpful resource.
+Welcome to the UMCOPRI (University of Maine - Coasts, Oceans, Ports, and Rivers Institute) wiki!  We will have a lot of stuff going on in the future, so hopefully this will become a helpful resource.
 
 ## Links
 
