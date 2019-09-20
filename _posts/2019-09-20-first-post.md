@@ -1,7 +1,9 @@
 ---
 title: Starting Out
-categories: [startup]
+categories:
+  - startup
 tags: []
+published: true
 ---
 
 # Welcome to COPRI
