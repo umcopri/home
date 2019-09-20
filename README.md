@@ -6,4 +6,4 @@ To stay in touch with the people of COPRI, join our slack channel: <http://umcop
 
 If you want to invite new members, we recommend using this link: <http://bit.ly/umcopri>
 
-![My helpful screenshot](/images/logo.png)
+![umcopri logo](/images/logo.png =250x250)
